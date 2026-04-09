@@ -30,9 +30,8 @@ A implementação foi estruturada para migrar cargas de trabalho de arquivos e b
 A implementação inicial na **Abstergo Industries** tem como benefícios esperados a **eliminação de custos de capital (CapEx) com hardware físico e a adoção de um modelo de despesas operacionais (OpEx) sob demanda**. A transição para o modelo serverless e armazenamento em camadas garante que a farmacêutica cresça sua capacidade computacional sem aumentar proporcionalmente seus custos fixos. Recomenda-se, em uma fase futura, a exploração de serviços de IA (como Amazon SageMaker) para acelerar a análise de compostos químicos.
 
 ## 4. Anexos
-* `planejamento_migracao_v1.pdf` https://docs.google.com/document/d/1dp6FZ7JUsqXQLt9eBcotpW4ObIBO-MySEYxh2BuC1-I/edit?usp=sharing
-* `politicas_seguranca_dados_farmaceuticos.md`
-* `estimativa_custos_mensais.xlsx`
+* [`planejamento_migracao_v1.pdf`](https://docs.google.com/document/d/1dp6FZ7JUsqXQLt9eBcotpW4ObIBO-MySEYxh2BuC1-I/edit?usp=sharing)
+* [`politicas_seguranca_dados_farmaceuticos.md`](https://github.com/raniereslourenco/abstergoRelatorio/blob/main/politicas_seguranca_dados_farmaceuticos.md)
 
 ---
 **Assinatura do Responsável pelo Projeto:**
